@@ -1,4 +1,4 @@
-# Calculator
+# Simple-Calculator
 
 Project from the JavaScript Web Projects course - Andrei Neagoie | Udemy.
 
