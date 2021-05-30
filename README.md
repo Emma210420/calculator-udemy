@@ -17,7 +17,7 @@ I learned a lot about how important the code structure is and since then, I use 
 
 ## Usage
 
-GitHub page available: https://emmadebarros.github.io/Calculator-Project/ 🔗
+GitHub page available: https://emmadebarros.github.io/Simple-Calculator/ 🔗
 
 
 ## Contributing
